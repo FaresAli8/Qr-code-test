@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartQR</string>
+    <string name="scan_tab">مسح</string>
+    <string name="generate_tab">إنشاء</string>
+    <string name="history_tab">السجل</string>
+    <string name="permission_required">الكاميرا مطلوبة للمسح</string>
+    <string name="grant_permission">منح الصلاحية</string>
+    <string name="copy">نسخ</string>
+    <string name="share">مشاركة</string>
+    <string name="open_url">فتح الرابط</string>
+    <string name="saved_to_gallery">تم الحفظ في المعرض</string>
+    <string name="type_text">نص</string>
+    <string name="type_url">رابط</string>
+    <string name="type_wifi">Wi-Fi</string>
+    <string name="generate_btn">توليد QR</string>
+    <string name="save_btn">حفظ</string>
+    <string name="input_hint">أدخل المحتوى هنا...</string>
+    <string name="ssid_hint">اسم الشبكة (SSID)</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="history_empty">لا يوجد سجل عمليات سابق</string>
+</resources>
